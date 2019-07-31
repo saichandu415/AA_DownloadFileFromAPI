@@ -1,0 +1,5 @@
+C:\Users\sai.sarath\source\repos\FileSaving\FileSaving\bin\Debug\FileSaving.dll
+C:\Users\sai.sarath\source\repos\FileSaving\FileSaving\bin\Debug\FileSaving.pdb
+C:\Users\sai.sarath\source\repos\FileSaving\FileSaving\obj\Debug\FileSaving.csproj.CoreCompileInputs.cache
+C:\Users\sai.sarath\source\repos\FileSaving\FileSaving\obj\Debug\FileSaving.dll
+C:\Users\sai.sarath\source\repos\FileSaving\FileSaving\obj\Debug\FileSaving.pdb
